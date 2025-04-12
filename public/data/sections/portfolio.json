@@ -1,0 +1,280 @@
+{
+    "locales": {
+        "en": {
+            "title": "Projects",
+            "title_long_prefix": "Take a look at",
+            "title_long": "My **Projects**"
+        },
+
+        "es": {
+            "title": "Portafolio",
+            "title_long_prefix": "Explora",
+            "title_long": "Mi **Portafolio**"
+        },
+
+        "fr": {
+            "title": "Portfolio",
+            "title_long_prefix": "Découvrez",
+            "title_long": "Mon **Portfolio**"
+        },
+
+        "ko": {
+            "title": "포트폴리오",
+            "title_long_prefix": "이것은 내",
+            "title_long": "**포트폴리오**입니다"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "portfolio",
+            "component": "ArticlePortfolio",
+            "config": {},
+            "locales": {},
+
+            "categories": [
+                {
+                    "id": "apps",
+                    "locales": {
+                        "en": {"singular": "App", "plural": "Apps"},
+                        "es": {"singular": "App", "plural": "Apps"},
+                        "fr": {"singular": "App", "plural": "Apps"},
+                        "ko": {"singular": "앱", "plural": "앱들"}
+                    }
+                },
+                {
+                    "id": "websites",
+                    "locales": {
+                        "en": {"singular": "Website", "plural": "Web"},
+                        "es": {"singular": "Sitio web", "plural": "Web"},
+                        "fr": {"singular": "Site web", "plural": "Web"},
+                        "ko": {"singular": "웹사이트", "plural": "웹"}
+                    }
+                }
+            ],
+
+            "items": [
+                  
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "images/pictures/studddd.png",
+                        "fa": "",
+                        "faColors": {"bg": "null", "fill": "null"}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/tuanaidiel/Full-Stack-Student-Registration-System"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": "",
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Student Registration System",
+                            "text": "A full-stack student registration system built using React for the frontend, .NET for the backend, and SQL Server for secure and efficient data management.",
+                            "tags": ["React", ".NET", "SQL Server"]
+                        },
+                        "es": {
+                            "title": "RockVerse",
+                            "text": "Un sitio web dinámico de música y entretenimiento desarrollado con <b>Django</b>, que muestra noticias de música rock, eventos y <b>contenido en streaming</b>.",
+                            "tags": ["Django", "Música", "Rock"]
+                        },
+                        "fr": {
+                            "title": "RockVerse",
+                            "text": "Un site web de musique et de divertissement dynamique développé avec <b>Django</b>, mettant en avant des nouvelles, événements et <b>contenu en streaming</b> sur le rock.",
+                            "tags": ["Django", "Musique", "Rock"]
+                        },
+                        "ko": {
+                            "title": "RockVerse",
+                            "text": "<b>Django</b>로 개발된 동적인 음악 및 엔터테인먼트 웹사이트로, 록 음악 뉴스, 이벤트 및 <b>스트리밍 콘텐츠</b>를 제공합니다.",
+                            "tags": ["Django", "음악", "록"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "images/pictures/ecom.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/tuanaidiel/Full-Stack-E-Commerce"},
+                        {"faIcon": "fa-solid fa-link", "href": "https://e-commerce-frontend-f7xj.onrender.com/"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "E-Commerce",
+                            "text": "A full-stack e-commerce application developed using the MERN stack (MongoDB, Express.js, React, Node.js) to provide a seamless online shopping experience with dynamic product management and secure transactions.",
+                            "tags": ["React.js", "Node.js", "MongoDB"]
+                        },
+                        "es": {
+                            "title": "Snappy",
+                            "text": "Una app de fotografía potente diseñada con <b>Swift</b> para iOS y Android, con <b>controles avanzados de cámara</b>, herramientas de edición y filtros potenciados por IA para mejoras rápidas de fotos.",
+                            "tags": ["Swift", "Fotografía", "Cámara"]
+                        },
+                        "fr": {
+                            "title": "Snappy",
+                            "text": "Une application de photographie puissante conçue avec <b>Swift</b> pour iOS et Android, avec des <b>contrôles avancés de la caméra</b>, des outils d'édition et des filtres IA pour des améliorations rapides des photos.",
+                            "tags": ["Swift", "Photographie", "Caméra"]
+                        },
+                        "ko": {
+                            "title": "Snappy",
+                            "text": "<b>Swift</b>로 설계된 강력한 사진 앱으로, iOS 및 Android에서 <b>고급 카메라 제어</b>, 편집 도구, AI 기반 필터를 통해 빠르게 사진을 보정할 수 있습니다.",
+                            "tags": ["Swift", "사진", "카메라"]
+                        }
+                    }
+                },
+
+                
+
+                
+
+                {
+                    "categoryId": "apps",
+                    "icon": {
+                        "img": "images/pictures/amb.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                    ],
+
+                    "media": {
+                        "youtubeVideo": "https://www.youtube.com/watch?v=KsglD5swEO4",
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Ambulanku",
+                            "text": "A mobile app for ambulance service management solution developed using Flutter for cross-platform support, featuring real-time tracking and an intuitive user interface to enhance coordination between patients and emergency service providers.",
+                            "tags": ["Flutter", "Dart", "Firebase"]
+                        },
+                        "es": {
+                            "title": "Soccer Analytics",
+                            "text": "Una plataforma de análisis deportivo impulsada por IA construida con <b>Python</b> y <b>TensorFlow</b>, que ofrece <b>predicciones</b> detalladas de fútbol y herramientas de gestión de equipos.",
+                            "tags": ["IA", "Predicción", "Fútbol"]
+                        },
+                        "fr": {
+                            "title": "Soccer Analytics",
+                            "text": "Une plateforme d'analytique sportive alimentée par IA construite avec <b>Python</b> et <b>TensorFlow</b>, offrant des <b>prédictions</b> détaillées pour le football et des outils de gestion d'équipe.",
+                            "tags": ["IA", "Prédiction", "Football"]
+                        },
+                        "ko": {
+                            "title": "Soccer Analytics",
+                            "text": "<b>Python</b> 및 <b>TensorFlow</b>로 구축된 AI 기반 스포츠 분석 플랫폼으로, 축구에 대한 <b>예측</b> 및 팀 관리 도구를 제공합니다.",
+                            "tags": ["AI", "예측", "축구"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "images/pictures/ml2.jpg",
+                        "fa": "",
+                        "faColors": {"bg": "null", "fill": "null"}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/tuanaidiel/Python-Machine-Learning"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Satellite Data Analytics",
+                            "text": "Machine Learning - Satellite Data Analytics project leverages satellite databases to extract insights through data cleaning, analysis, and predictive modeling using Python with libraries like NumPy, SciPy, Pandas, and Seaborn, employing machine learning models such as Linear Regression and K-Nearest Neighbors (KNN) to predict satellite outcomes.",
+                            "tags": ["Scikit-Learn", "Linear Regression", "SVM"]
+                        },
+                        "es": {
+                            "title": "QuickDrop",
+                            "text": "Una app de entregas multiplataforma construida con <b>React Native</b> y un backend de <b>Node.js</b>, con <b>seguimiento en tiempo real</b> e integración perfecta en múltiples plataformas.",
+                            "tags": ["React Native", "Entrega", "Seguimiento"]
+                        },
+                        "fr": {
+                            "title": "QuickDrop",
+                            "text": "Une application de livraison multiplateforme construite avec <b>React Native</b> et un backend <b>Node.js</b>, avec <b>suivi en temps réel</b> et intégration fluide sur plusieurs plateformes.",
+                            "tags": ["React Native", "Livraison", "Suivi"]
+                        },
+                        "ko": {
+                            "title": "QuickDrop",
+                            "text": "<b>React Native</b>와 <b>Node.js</b> 백엔드로 구축된 크로스플랫폼 배송 앱으로, <b>실시간 추적</b> 및 여러 플랫폼과의 원활한 통합을 제공합니다.",
+                            "tags": ["React Native", "배송", "실시간 추적"]
+                        }
+                    }
+                },
+
+
+
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "images/pictures/muuu.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        
+                    ],
+
+                    
+
+                    "locales": {
+                        "en": {
+                            "title": "AI Mood-Based Playlist Generator",
+                            "text": "IN PROGRESS:\n\n AI Mood Based Playlist Generator is a project that uses AI with TensorFlow to detect facial moods and generates personalized music playlists, built on the MERN stack for a seamless full-stack experience.",
+                            "tags": ["TensorFlow", "MERN Stack", "Music"]
+                        },
+                        "es": {
+                            "title": "SmartCash",
+                            "text": "Un sitio web financiero construido con <b>Next.js</b>, que permite a los usuarios <b>seguir presupuestos</b> y gestionar su dinero con gráficos interactivos e ideas.",
+                            "tags": ["Next.js", "Finanzas", "Dinero"]
+                        },
+                        "fr": {
+                            "title": "SmartCash",
+                            "text": "Un site web financier construit avec <b>Next.js</b>, permettant aux utilisateurs de <b>suivre les budgets</b> et de gérer leur argent avec des graphiques interactifs et des analyses.",
+                            "tags": ["Next.js", "Finance", "Argent"]
+                        },
+                        "ko": {
+                            "title": "SmartCash",
+                            "text": "<b>Next.js</b>로 구축된 금융 웹사이트로, 사용자가 <b>예산을 추적</b>하고 상호작용하는 차트와 통찰력으로 자금을 관리할 수 있습니다.",
+                            "tags": ["Next.js", "금융", "돈"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
