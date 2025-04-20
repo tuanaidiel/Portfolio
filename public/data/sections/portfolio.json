@@ -213,7 +213,7 @@
 
                     "locales": {
                         "en": {
-                            "title": "Satellite Data Analytics",
+                            "title": "Machine Learning on Satellite Data",
                             "text": "Machine Learning - Satellite Data Analytics project leverages satellite databases to extract insights through data cleaning, analysis, and predictive modeling using Python with libraries like NumPy, SciPy, Pandas, and Seaborn, employing machine learning models such as Linear Regression and K-Nearest Neighbors (KNN) to predict satellite outcomes.",
                             "tags": ["Scikit-Learn", "Linear Regression", "SVM"]
                         },
