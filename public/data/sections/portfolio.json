@@ -102,9 +102,9 @@
                 {
                     "categoryId": "websites",
                     "icon": {
-                        "img": "images/pictures/ecom.png",
-                        "fa": "",
-                        "faColors": {"bg": null, "fill": null}
+                        "img": null,
+                        "fa": "fas fa-tshirt",
+                        "faColors": {"bg": "#e0f7fa", "fill": "#00796b"}
                     },
 
                     "links": [
@@ -122,9 +122,9 @@
 
                     "locales": {
                         "en": {
-                            "title": "E-Commerce",
+                            "title": "Fashion E-Commerce",
                             "text": "A full-stack e-commerce application developed using the MERN stack (MongoDB, Express.js, React, Node.js) to provide a seamless online shopping experience with dynamic product management and secure transactions.",
-                            "tags": ["React.js", "Node.js", "MongoDB"]
+                            "tags": ["React", "Node", "MongoDB"]
                         },
                         "es": {
                             "title": "Snappy",
@@ -169,7 +169,7 @@
 
                     "locales": {
                         "en": {
-                            "title": "Ambulanku",
+                            "title": "AmbulanKu",
                             "text": "A mobile app for ambulance service management solution developed using Flutter for cross-platform support, featuring real-time tracking and an intuitive user interface to enhance coordination between patients and emergency service providers.",
                             "tags": ["Flutter", "Dart", "Firebase"]
                         },
@@ -194,13 +194,52 @@
                 {
                     "categoryId": "websites",
                     "icon": {
+                        "img": null,
+                        "fa": "fas fa-pepper-hot",
+                        "faColors": {"bg": "#ffebee", "fill": "#d32f2f"}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/tuanaidiel/Sambal-Gepuk-Landing-Page"},
+                        {"faIcon": "fa-solid fa-link", "href": "https://tuanaidiel.github.io/Sambal-Gepuk-Landing-Page/"}
+                    ],
+
+                    
+
+                    "locales": {
+                        "en": {
+                            "title": "Sambal Gepuk Landing Page",
+                            "text": "A freelance project creating a modern, responsive landing page for Sambal Gepuk using React, TypeScript, Tailwind CSS, and Vite to deliver a clean design and smooth user experience.",
+                            "tags": ["TypeScript", "React","Node"]
+                        },
+                        "es": {
+                            "title": "SmartCash",
+                            "text": "Un sitio web financiero construido con <b>Next.js</b>, que permite a los usuarios <b>seguir presupuestos</b> y gestionar su dinero con gráficos interactivos e ideas.",
+                            "tags": ["Next.js", "Finanzas", "Dinero"]
+                        },
+                        "fr": {
+                            "title": "SmartCash",
+                            "text": "Un site web financier construit avec <b>Next.js</b>, permettant aux utilisateurs de <b>suivre les budgets</b> et de gérer leur argent avec des graphiques interactifs et des analyses.",
+                            "tags": ["Next.js", "Finance", "Argent"]
+                        },
+                        "ko": {
+                            "title": "SmartCash",
+                            "text": "<b>Next.js</b>로 구축된 금융 웹사이트로, 사용자가 <b>예산을 추적</b>하고 상호작용하는 차트와 통찰력으로 자금을 관리할 수 있습니다.",
+                            "tags": ["Next.js", "금융", "돈"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "websites",
+                    "icon": {
                         "img": "images/pictures/ml2.jpg",
                         "fa": "",
                         "faColors": {"bg": "null", "fill": "null"}
                     },
 
                     "links": [
-                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/tuanaidiel/Machine-Learning-on-Satellite"}
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/tuanaidiel/Python-Machine-Learning"}
                     ],
 
                     "media": {
@@ -213,7 +252,7 @@
 
                     "locales": {
                         "en": {
-                            "title": "Machine Learning on Satellite Data",
+                            "title": "Satellite Data Analytics",
                             "text": "Machine Learning - Satellite Data Analytics project leverages satellite databases to extract insights through data cleaning, analysis, and predictive modeling using Python with libraries like NumPy, SciPy, Pandas, and Seaborn, employing machine learning models such as Linear Regression and K-Nearest Neighbors (KNN) to predict satellite outcomes.",
                             "tags": ["Scikit-Learn", "Linear Regression", "SVM"]
                         },
@@ -273,7 +312,7 @@
                         }
                     }
                 },
-                
+
 
                 {
                     "categoryId": "websites",
