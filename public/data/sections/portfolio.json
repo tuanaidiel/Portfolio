@@ -77,8 +77,8 @@
 
                     "locales": {
                         "en": {
-                            "title": "Student Registration System",
-                            "text": "A full-stack student registration system built using React for the frontend, .NET for the backend, and SQL Server for secure and efficient data management.",
+                            "title": "Employee Registration System",
+                            "text": "A full-stack employee registration system built using React for the frontend, .NET for the backend, and SQL Server for secure and efficient data management.",
                             "tags": ["React", ".NET", "SQL Server"]
                         },
                         "es": {
@@ -102,9 +102,9 @@
                 {
                     "categoryId": "websites",
                     "icon": {
-                        "img": "images/pictures/ecom.png",
-                        "fa": "",
-                        "faColors": {"bg": null, "fill": null}
+                        "img": null,
+                        "fa": "fas fa-tshirt",
+                        "faColors": {"bg": "#e0f7fa", "fill": "#00796b"}
                     },
 
                     "links": [
@@ -122,9 +122,9 @@
 
                     "locales": {
                         "en": {
-                            "title": "E-Commerce",
+                            "title": "Fashion E-Commerce",
                             "text": "A full-stack e-commerce application developed using the MERN stack (MongoDB, Express.js, React, Node.js) to provide a seamless online shopping experience with dynamic product management and secure transactions.",
-                            "tags": ["React.js", "Node.js", "MongoDB"]
+                            "tags": ["React", "Node", "MongoDB"]
                         },
                         "es": {
                             "title": "Snappy",
@@ -169,7 +169,7 @@
 
                     "locales": {
                         "en": {
-                            "title": "Ambulanku",
+                            "title": "AmbulanKu",
                             "text": "A mobile app for ambulance service management solution developed using Flutter for cross-platform support, featuring real-time tracking and an intuitive user interface to enhance coordination between patients and emergency service providers.",
                             "tags": ["Flutter", "Dart", "Firebase"]
                         },
@@ -187,6 +187,45 @@
                             "title": "Soccer Analytics",
                             "text": "<b>Python</b> 및 <b>TensorFlow</b>로 구축된 AI 기반 스포츠 분석 플랫폼으로, 축구에 대한 <b>예측</b> 및 팀 관리 도구를 제공합니다.",
                             "tags": ["AI", "예측", "축구"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": null,
+                        "fa": "fas fa-pepper-hot",
+                        "faColors": {"bg": "#ffebee", "fill": "#d32f2f"}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/tuanaidiel/Sambal-Gepuk-Landing-Page"},
+                        {"faIcon": "fa-solid fa-link", "href": "https://tuanaidiel.github.io/Sambal-Gepuk-Landing-Page/"}
+                    ],
+
+                    
+
+                    "locales": {
+                        "en": {
+                            "title": "Sambal Gepuk Landing Page",
+                            "text": "A freelance project creating a modern, responsive landing page for Sambal Gepuk using React, TypeScript, Tailwind CSS, and Vite to deliver a clean design and smooth user experience.",
+                            "tags": ["TypeScript", "React","Node"]
+                        },
+                        "es": {
+                            "title": "SmartCash",
+                            "text": "Un sitio web financiero construido con <b>Next.js</b>, que permite a los usuarios <b>seguir presupuestos</b> y gestionar su dinero con gráficos interactivos e ideas.",
+                            "tags": ["Next.js", "Finanzas", "Dinero"]
+                        },
+                        "fr": {
+                            "title": "SmartCash",
+                            "text": "Un site web financier construit avec <b>Next.js</b>, permettant aux utilisateurs de <b>suivre les budgets</b> et de gérer leur argent avec des graphiques interactifs et des analyses.",
+                            "tags": ["Next.js", "Finance", "Argent"]
+                        },
+                        "ko": {
+                            "title": "SmartCash",
+                            "text": "<b>Next.js</b>로 구축된 금융 웹사이트로, 사용자가 <b>예산을 추적</b>하고 상호작용하는 차트와 통찰력으로 자금을 관리할 수 있습니다.",
+                            "tags": ["Next.js", "금융", "돈"]
                         }
                     }
                 },
@@ -214,7 +253,7 @@
                     "locales": {
                         "en": {
                             "title": "Satellite Data Analytics",
-                            "text": "Machine Learning - Satellite Data Analytics project leverages satellite databases to extract insights through data cleaning, analysis, and predictive modeling using Python with libraries like NumPy, SciPy, Pandas, and Seaborn, employing machine learning models such as Linear Regression and K-Nearest Neighbors (KNN) to predict satellite outcomes.",
+                            "text": "Machine Learning - Satellite Data Analytics project that uses Python and libraries like NumPy, SciPy, Pandas, and Seaborn to clean, analyze, and model satellite data, applying algorithms such as Linear Regression and K-Nearest Neighbors (KNN) to predict satellite outcomes.",
                             "tags": ["Scikit-Learn", "Linear Regression", "SVM"]
                         },
                         "es": {
@@ -235,14 +274,52 @@
                     }
                 },
 
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": null,
+                        "fa": "fas fa-heart",
+                        "faColors": {"bg": "#fce4ec", "fill": "#e91e63"}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/tuanaidiel/Wedding-Invitation"},
+                        {"faIcon": "fa-solid fa-link", "href": "https://tuanaidiel.github.io/Wedding-Invitation/"}
+                    ],
+
+                    
+
+                    "locales": {
+                        "en": {
+                            "title": "Wedding Invitation",
+                            "text": "A beautiful wedding invitation featuring the couple's story, event details, and a photo gallery. Responses from the RSVP form are automatically recorded in Google Sheets, enabling the couple to efficiently manage guest information and make informed decisions for event preparations.",
+                            "tags": ["HTML", "CSS","JavaScript"]
+                        },
+                        "es": {
+                            "title": "SmartCash",
+                            "text": "Un sitio web financiero construido con <b>Next.js</b>, que permite a los usuarios <b>seguir presupuestos</b> y gestionar su dinero con gráficos interactivos e ideas.",
+                            "tags": ["Next.js", "Finanzas", "Dinero"]
+                        },
+                        "fr": {
+                            "title": "SmartCash",
+                            "text": "Un site web financier construit avec <b>Next.js</b>, permettant aux utilisateurs de <b>suivre les budgets</b> et de gérer leur argent avec des graphiques interactifs et des analyses.",
+                            "tags": ["Next.js", "Finance", "Argent"]
+                        },
+                        "ko": {
+                            "title": "SmartCash",
+                            "text": "<b>Next.js</b>로 구축된 금융 웹사이트로, 사용자가 <b>예산을 추적</b>하고 상호작용하는 차트와 통찰력으로 자금을 관리할 수 있습니다.",
+                            "tags": ["Next.js", "금융", "돈"]
+                        }
+                    }
+                },
 
 
                 {
                     "categoryId": "websites",
                     "icon": {
-                        "img": "images/pictures/muuu.png",
-                        "fa": "",
-                        "faColors": {"bg": null, "fill": null}
+                        "img": null,
+                        "fa": "fas fa-book",
+                        "faColors": {"bg": "#cce5ff", "fill": "#e91e63"}
                     },
 
                     "links": [
@@ -253,8 +330,8 @@
 
                     "locales": {
                         "en": {
-                            "title": "AI Mood-Based Playlist Generator",
-                            "text": "IN PROGRESS:\n\n AI Mood Based Playlist Generator is a project that uses AI with TensorFlow to detect facial moods and generates personalized music playlists, built on the MERN stack for a seamless full-stack experience.",
+                            "title": "ProctorIQ",
+                            "text": "IN PROGRESS:<br> A full-stack online exam platform using Angular, ASP.NET Core, and Azure, featuring secure authentication, role-based access, scalable backend design with Entity Framework and SQL Server, dynamic components, and CI/CD deployment.",
                             "tags": ["TensorFlow", "MERN Stack", "Music"]
                         },
                         "es": {

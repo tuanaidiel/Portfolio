@@ -222,7 +222,7 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-brands fa-vuejs",
+                        "fa": "fa-brands fa-angular",
                         "faColors": {"bg": "#4FC08D", "fill": "#111"}
                     },
                     "value": 40,
@@ -231,7 +231,7 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Vue",
+                            "title": "Angular",
                             "info": null
                         }
                     }
@@ -268,9 +268,9 @@
                 
                 {
                     "icon": {
-                        "img": "dist/images/css/aspnet.jpg",
-                        "fa": null,
-                        "faColors": {"bg": "#FFFFFF", "fill": "#EEE"}
+                        "img": "images/pictures/.net.png",
+                        "fa": "",
+                        "faColors": {"bg": "#512BD4", "fill": "#ffffff"}
                     },
                     "value": 90,
                     "dates": {
@@ -278,7 +278,7 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "ASP.NET",
+                            "title": ".NET",
                             "info": null
                         }
                     }
@@ -343,9 +343,9 @@
 
                 {
                     "icon": {
-                        "img": "dist/images/css/downloadssssqlserver.png",
-                        "fa": null,
-                        "faColors": {"bg": "#FFFFFF", "fill": "#EEE"}
+                        "img": "images/pictures/.sqlserver.png",
+                        "fa": "",
+                        "faColors": {"bg": "null", "fill": "null"}
                     },
                     "value": 85,
                     "dates": {
@@ -361,9 +361,9 @@
 
                 {
                     "icon": {
-                        "img": "dist/images/css/postgresql2.png",
-                        "fa": null,
-                        "faColors": {"bg": "#4479A1", "fill": "#EEE"}
+                        "img": "images/pictures/.postgresql.png",
+                        "fa": "",
+                        "faColors": {"bg": "#336791", "fill": "#ffffff"}
                     },
                     "value": 75,
                     "dates": {

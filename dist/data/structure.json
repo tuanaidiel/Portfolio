@@ -7,12 +7,7 @@
             "faIcon": "fa-solid fa-address-card"
         },
 
-        {
-            "id": "education",
-            "categoryId": "background",
-            "jsonPath": "/data/sections/education.json",
-            "faIcon": "fa-solid fa-graduation-cap"
-        },
+
 
         {
             "id": "skills",
@@ -42,12 +37,7 @@
             "faIcon": "fa-solid fa-award"
         },
 
-        {
-            "id": "updates",
-            "categoryId": "more",
-            "jsonPath": "/data/sections/updates.json",
-            "faIcon": "fa-solid fa-rss"
-        },
+
 
         {
             "id": "contact",

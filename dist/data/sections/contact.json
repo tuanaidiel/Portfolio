@@ -104,51 +104,21 @@
                 },
 
                 {
-                    "value": "@tuanaidiel_",
+                    "value": "@tuanaidiel",
                     "links": [
-                        {"href": "https://www.instagram.com/tuanaidiel_/"}
+                        {"href": "https://github.com/tuanaidiel"}
                     ],
                     "icon": {
                         "img": null,
-                        "fa": "fa-brands fa-instagram",
+                        "fa": "fa-brands fa-github",
                         "faColors": {"bg": null, "fill": null}
                     },
                     "locales": {
-                        "en": {"title": "Instagram"}
-                    }
-                },
-
-                {
-                    "value": "Tuan Aidiel",
-                    "links": [
-                        {"href": "https://facebook.com"}
-                    ],
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-facebook",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "locales": {
-                        "en": {"title": "Facebook"}
-                    }
-                },
-
-                
-
-                {
-                    "value": "@markchoi",
-                    "links": [
-                        {"href": "https://tiktok.com"}
-                    ],
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-tiktok",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "locales": {
-                        "en": {"title": "TikTok"}
+                        "en": {"title": "GitHub"}
                     }
                 }
+
+
             ]
         }
     ]

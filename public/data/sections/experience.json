@@ -49,7 +49,7 @@
                         "en": {
                             "title": "**Machine Learning** Trainee",
                             "info": "Intelli Education Group (IEG) Campus",
-                            "text": "Gained expertise in Python programming and data analysis libraries (NumPy, SciPy, Pandas), implementing machine learning algorithms and enhancing problem-solving skills through data preprocessing, feature engineering, and model evaluation.",
+                            "text": "• Designed, developed, and deployed machine learning models for optimizing system design and address realworld challenges.<br>• Applied Python with libraries such as TensorFlow, PyTorch, NumPy, and Scikit-learn for data preprocessing, feature engineering, and model evaluation.<br>• Collaborated with mentors and peers to deploy machine learning solutions.",
                             "tags": ["Linear Regression", "TensorFlow", "Numpy", "Pandas", "Scikit-learn"]
                         },
                         "es": {
@@ -88,8 +88,8 @@
                         "en": {
                             "title": "**Software** Engineer",
                             "info": "Novamed Technology Sdn Bhd",
-                            "text": "Developed and supported scalable healthcare IT software integrations using .NET, C#, Python, and JavaScript, with a focus on seamless system operation, database management, and adherence to industry standards.",
-                            "tags": [".NET", "Python", "SQL Server", "PostgreSQL", "ASP.NET", "Docker"]
+                            "text": "• Developed and maintained software solutions using C# and .NET Core, delivering secure and reliable applications tailored for healthcare IT environments.<br>• Built and optimized responsive web applications using Angular, TypeScript, Node.js to streamline a wide range of clinical and laboratory information workflows.<br>• Designed and implemented RESTful APIs to enable seamless communication between middleware components and backend services.<br>• Utilized SQL Server and PostgreSQL with Entity Framework for robust data handling, ensuring performance, integrity, and traceability in clinical operations.<br>• Collaborated with cross-functional teams to deliver scalable software solutions, diagnose performance issues, and apply effective optimization strategies to improve overall system performance.",
+                            "tags": ["C#", ".NET Core", "JavaScript", "Angular", "Node.js", "SQL Server", "PostgreSQL"]
                         },
                         "es": {
                             "title": "Ingeniero **Full-Stack**",
