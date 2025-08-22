@@ -323,7 +323,8 @@
                     },
 
                     "links": [
-                        
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/tuanaidiel/ProctorIQ-Prototype"},
+                        {"faIcon": "fa-solid fa-link", "href": "https://proctor-iq.vercel.app/"}
                     ],
 
                     
