@@ -74,7 +74,7 @@
                         "en": {
                             "title": "ProctorIQ",
                             "text": "A full-stack online exam platform using Angular, ASP.NET Core, and Azure, featuring secure authentication, role-based access, scalable backend design with Entity Framework and SQL Server, dynamic components, and CI/CD deployment.",
-                            "tags": ["TensorFlow", "MERN Stack", "Music"]
+                            "tags": ["Angular", "ASP.NET Core", "Azure"]
                         },
                         "es": {
                             "title": "SmartCash",
