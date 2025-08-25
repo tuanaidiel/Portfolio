@@ -54,6 +54,48 @@
             ],
 
             "items": [
+
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": null,
+                        "fa": "fas fa-book",
+                        "faColors": {"bg": "#cce5ff", "fill": "#e91e63"}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/tuanaidiel/ProctorIQ-Prototype"},
+                        {"faIcon": "fa-solid fa-link", "href": "https://proctor-iq.vercel.app/"}
+                    ],
+
+                    
+
+                    "locales": {
+                        "en": {
+                            "title": "ProctorIQ",
+                            "text": "A full-stack online exam platform using Angular, ASP.NET Core, and Azure, featuring secure authentication, role-based access, scalable backend design with Entity Framework and SQL Server, dynamic components, and CI/CD deployment.",
+                            "tags": ["TensorFlow", "MERN Stack", "Music"]
+                        },
+                        "es": {
+                            "title": "SmartCash",
+                            "text": "Un sitio web financiero construido con <b>Next.js</b>, que permite a los usuarios <b>seguir presupuestos</b> y gestionar su dinero con gráficos interactivos e ideas.",
+                            "tags": ["Next.js", "Finanzas", "Dinero"]
+                        },
+                        "fr": {
+                            "title": "SmartCash",
+                            "text": "Un site web financier construit avec <b>Next.js</b>, permettant aux utilisateurs de <b>suivre les budgets</b> et de gérer leur argent avec des graphiques interactifs et des analyses.",
+                            "tags": ["Next.js", "Finance", "Argent"]
+                        },
+                        "ko": {
+                            "title": "SmartCash",
+                            "text": "<b>Next.js</b>로 구축된 금융 웹사이트로, 사용자가 <b>예산을 추적</b>하고 상호작용하는 차트와 통찰력으로 자금을 관리할 수 있습니다.",
+                            "tags": ["Next.js", "금융", "돈"]
+                        }
+                    }
+                },
+
+
+
                   
                 {
                     "categoryId": "websites",
@@ -311,47 +353,10 @@
                             "tags": ["Next.js", "금융", "돈"]
                         }
                     }
-                },
-
-
-                {
-                    "categoryId": "websites",
-                    "icon": {
-                        "img": null,
-                        "fa": "fas fa-book",
-                        "faColors": {"bg": "#cce5ff", "fill": "#e91e63"}
-                    },
-
-                    "links": [
-                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/tuanaidiel/ProctorIQ-Prototype"},
-                        {"faIcon": "fa-solid fa-link", "href": "https://proctor-iq.vercel.app/"}
-                    ],
-
-                    
-
-                    "locales": {
-                        "en": {
-                            "title": "ProctorIQ",
-                            "text": "IN PROGRESS:<br> A full-stack online exam platform using Angular, ASP.NET Core, and Azure, featuring secure authentication, role-based access, scalable backend design with Entity Framework and SQL Server, dynamic components, and CI/CD deployment.",
-                            "tags": ["TensorFlow", "MERN Stack", "Music"]
-                        },
-                        "es": {
-                            "title": "SmartCash",
-                            "text": "Un sitio web financiero construido con <b>Next.js</b>, que permite a los usuarios <b>seguir presupuestos</b> y gestionar su dinero con gráficos interactivos e ideas.",
-                            "tags": ["Next.js", "Finanzas", "Dinero"]
-                        },
-                        "fr": {
-                            "title": "SmartCash",
-                            "text": "Un site web financier construit avec <b>Next.js</b>, permettant aux utilisateurs de <b>suivre les budgets</b> et de gérer leur argent avec des graphiques interactifs et des analyses.",
-                            "tags": ["Next.js", "Finance", "Argent"]
-                        },
-                        "ko": {
-                            "title": "SmartCash",
-                            "text": "<b>Next.js</b>로 구축된 금융 웹사이트로, 사용자가 <b>예산을 추적</b>하고 상호작용하는 차트와 통찰력으로 자금을 관리할 수 있습니다.",
-                            "tags": ["Next.js", "금융", "돈"]
-                        }
-                    }
                 }
+
+
+                
             ]
         }
     ]
