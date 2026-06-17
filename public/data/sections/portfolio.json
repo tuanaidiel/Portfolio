@@ -243,7 +243,7 @@
 
                     "links": [
                         {"faIcon": "fa-brands fa-github", "href": "https://github.com/tuanaidiel/Sambal-Gepuk-Landing-Page"},
-                        {"faIcon": "fa-solid fa-link", "href": "https://tuanaidiel.github.io/Sambal-Gepuk-Landing-Page/"}
+                        {"faIcon": "fa-solid fa-link", "href": "https://sambal-gepuk-landing-page.vercel.app/"}
                     ],
 
                     
