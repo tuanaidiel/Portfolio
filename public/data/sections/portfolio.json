@@ -59,8 +59,8 @@
                     "categoryId": "websites",
                     "icon": {
                         "img": null,
-                        "fa": "fas fa-book",
-                        "faColors": {"bg": "#cce5ff", "fill": "#e91e63"}
+                        "fa": "fas fa-utensils",
+                        "faColors": {"bg": "#d1fae5", "fill": "#10b981"}
                     },
 
                     "links": [
@@ -72,8 +72,8 @@
                     "locales": {
                         "en": {
                             "title": "FoodCal",
-                            "text": "An AI-Powered Full-Stack Application using Angular, ASP.NET Core, and Azure, featuring secure authentication, role-based access, scalable backend design with Entity Framework and SQL Server, dynamic components, and CI/CD deployment.",
-                            "tags": ["Angular", "ASP.NET Core", "Azure"]
+                            "text": "FoodCal is an Al-powered food calorie tracking app built with Angular, ASP.NET Core (NET 9 Web API), Entity Framework Core, PostgreSQL, and OpenAl Vision API to scan food images and provide calorie and macronutrient insights.",
+                            "tags": ["Angular", "ASP.NET Core", "OpenAI"]
                         },
                         "es": {
                             "title": "SmartCash",
