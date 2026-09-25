@@ -99,6 +99,122 @@
                     "categoryId": "websites",
                     "icon": {
                         "img": null,
+                        "fa": "fas fa-store",
+                        "faColors": {
+                            "bg": "#fff3cd",
+                            "fill": "#b7791f"
+                        }
+                    },
+                    "links": [
+                        {
+                            "faIcon": "fa-brands fa-github",
+                            "href": "https://github.com/tuanaidiel99/butter-tteok-hq"
+                        },
+                        {
+                            "faIcon": "fa-solid fa-link",
+                            "href": "https://butter-tteok-hq.vynex.workers.dev/"
+                        }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "Butter Tteok Business Management System",
+                            "text": "An internal business management system for Butter Tteok, bringing orders, recipes, production, inventory, expenses, and profit tracking into one workspace. Built with React and TypeScript, with Cloudflare Workers and D1 powering the backend.",
+                            "tags": [
+                                "React",
+                                "TypeScript",
+                                "Cloudflare"
+                            ]
+                        },
+                        "es": {
+                            "title": "Butter Tteok Business Management System",
+                            "text": "Un sistema de gestión interna para Butter Tteok que reúne pedidos, recetas, producción, inventario, gastos y seguimiento de beneficios. Desarrollado con React y TypeScript, con Cloudflare Workers y D1 en el backend.",
+                            "tags": [
+                                "React",
+                                "TypeScript",
+                                "Cloudflare"
+                            ]
+                        },
+                        "fr": {
+                            "title": "Butter Tteok Business Management System",
+                            "text": "Un système de gestion interne pour Butter Tteok regroupant commandes, recettes, production, stocks, dépenses et suivi des bénéfices. Développé avec React et TypeScript, avec Cloudflare Workers et D1 côté serveur.",
+                            "tags": [
+                                "React",
+                                "TypeScript",
+                                "Cloudflare"
+                            ]
+                        },
+                        "ko": {
+                            "title": "Butter Tteok Business Management System",
+                            "text": "주문, 레시피, 생산, 재고, 비용 및 수익 추적을 한곳에서 관리하는 Butter Tteok 내부 업무 시스템입니다. React와 TypeScript로 개발했으며, Cloudflare Workers와 D1을 백엔드로 사용합니다.",
+                            "tags": [
+                                "React",
+                                "TypeScript",
+                                "Cloudflare"
+                            ]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": null,
+                        "fa": "fas fa-mug-hot",
+                        "faColors": {
+                            "bg": "#fce7f3",
+                            "fill": "#9d174d"
+                        }
+                    },
+                    "links": [
+                        {
+                            "faIcon": "fa-solid fa-link",
+                            "href": "https://brew-bloom-demo-py73tj.v2.appdeploy.ai/"
+                        }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "Brew & Bloom",
+                            "text": "An internal management system for a coffee, flowers, and gift bouquet business, bringing customer orders and daily operations into one place. Features a responsive dashboard, order editing and deletion, and demo data to explore the workflow.",
+                            "tags": [
+                                "Business Management",
+                                "Order Management",
+                                "Responsive"
+                            ]
+                        },
+                        "es": {
+                            "title": "Brew & Bloom",
+                            "text": "Un sistema de gestión interna para un negocio de café, flores y ramos de regalo que reúne pedidos y operaciones diarias. Incluye un panel adaptable, edición y eliminación de pedidos y datos de demostración.",
+                            "tags": [
+                                "Business Management",
+                                "Order Management",
+                                "Responsive"
+                            ]
+                        },
+                        "fr": {
+                            "title": "Brew & Bloom",
+                            "text": "Un système de gestion interne pour une activité de café, fleurs et bouquets cadeaux, centralisant commandes et opérations quotidiennes. Il propose un tableau de bord adaptatif, la modification et la suppression des commandes, ainsi que des données de démonstration.",
+                            "tags": [
+                                "Business Management",
+                                "Order Management",
+                                "Responsive"
+                            ]
+                        },
+                        "ko": {
+                            "title": "Brew & Bloom",
+                            "text": "커피, 꽃, 선물 부케 사업의 고객 주문과 일상 업무를 한곳에서 관리하는 내부 시스템입니다. 반응형 대시보드, 주문 수정 및 삭제 기능과 데모 데이터를 제공합니다.",
+                            "tags": [
+                                "Business Management",
+                                "Order Management",
+                                "Responsive"
+                            ]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": null,
                         "fa": "fas fa-book",
                         "faColors": {"bg": "#cce5ff", "fill": "#e91e63"}
                     },
